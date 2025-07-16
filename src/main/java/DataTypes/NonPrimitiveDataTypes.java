@@ -1,4 +1,4 @@
-package dataTypes;
+package DataTypes;
 
 public class NonPrimitiveDataTypes {
     public static void main(String[] args) {
