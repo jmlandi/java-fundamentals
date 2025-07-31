@@ -10,8 +10,8 @@ public class Arrays {
             the memory space to create an array, so its necessary to specify how many items you'll have.
 
             Important: when you initialize an array, the values of the array that are not set depends on the type.
-            For example, "int[] numbers = new int[3]" without setting "numbers[3]", if I print "numbers[0]" the output
-            will be "0", due to array type. So basically, initialized arrays by type got the respective values:
+            For example, "int[] numbers = new int[3]" without setting "numbers[3]" is equal "0", due to array type. So
+            basically, initialized arrays by type got the respective default values:
             - String, char = null
             - boolean = false
             - int, short, long = 0
